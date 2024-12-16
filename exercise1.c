@@ -1,3 +1,4 @@
+/*This program is used to print the sum of numbers from 1 to n*/
 #include <stdio.h>
 
 void get_details(char name[], char location[]);
